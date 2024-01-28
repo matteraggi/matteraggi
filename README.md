@@ -1,5 +1,4 @@
 <h1 align="center">Ciao👋, sono Matteo</h1>
-<h3 align="center">Ti do il permesso di guardare il mio profilo...</h3>
 <img align="right" alt="codingBro" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"/>
 
 - 🌱 Sto imparando **MERN, React Native, Godot**

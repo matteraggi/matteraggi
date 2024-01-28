@@ -3,7 +3,7 @@
 
 - 🌱 Sto imparando **MERN, React Native, Godot**
 
-- 📝 Scrivo articoli su [www.matteoraggiblog.com](www.matteoraggiblog.com)
+- 📝 Scrivo su [www.matteoraggiblog.com](www.matteoraggiblog.com)
 
 - 📫 Per contattarmi: **raggimatteoo@gmail.com**
 

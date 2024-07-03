@@ -1,7 +1,7 @@
 <h1 align="center">Ciao👋, sono Matteo</h1>
 <img align="right" alt="codingBro" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"/>
 
-- 🌱 Sto imparando **MERN, React Native, Godot**
+- 🌱 Sto imparando **Kotlin, Flutter/Dart**
 
 - 📝 Scrivo su [www.matteoraggiblog.com](www.matteoraggiblog.com)
 
